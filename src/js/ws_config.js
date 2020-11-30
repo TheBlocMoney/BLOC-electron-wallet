@@ -5,7 +5,7 @@ config.appName = 'BLOC-Electron-Wallet';
 config.appDescription = 'BLOC GUI Wallet';
 config.appSlogan = 'in BLOC we trust';
 config.appId = 'money.bloc.bloc-electron-wallet';
-config.appGitRepo = 'https://github.com/furiousteam/BLOC-electron-wallet';
+config.appGitRepo = 'https://github.com/TheBlocMoney/BLOC-electron-wallet';
 
 // default port number for your daemon (e.g. BLOCd)
 config.daemonDefaultRpcPort = 2086;
@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'money';
 config.walletServiceBinaryFilename = 'BLOC-service';
 
 // version on the bundled service (BLOC-service)
-config.walletServiceBinaryVersion = "3.5.1.3";
+config.walletServiceBinaryVersion = "3.5.1.4";
 
 // default port number for your wallet service (e.g. BLOC-service)
 config.walletServiceRpcPort = 8070;
@@ -26,14 +26,14 @@ config.walletServiceRpcPort = 8070;
 config.blockExplorerTransactionUrl = 'https://bloc-explorer.com/transaction/[[TX_HASH]]';
 
 // default remote node to connect to, set this to a known reliable node for 'just works' user experience
-config.remoteNodeDefaultHost = 'bloc.cool';
+config.remoteNodeDefaultHost = 'blocmoney.co.uk';
 
 // remote node list update url, set to null if you don't have one
-config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/furiousteam/BLOC-nodes-json/master/BLOC-nodes.json';
+config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/TheBlocMoney/BLOC-nodes-json/master/BLOC-nodes.json';
 
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
-	'bloc.cool:2086'
+	'node.pool.gntl.co.uk:2086'
 ];
 
 // your currency name
@@ -66,32 +66,32 @@ config.addressBookObfuscationKey = '79009fb00ca1b7130832a42de45142cf6c4b7f333fe6
 // initial/sample entries to fill new address book
 config.addressBookSampleEntries = [
 	{
-		name: 'FuriousTeam',
-		address: 'abLoc7qZYJd7cWysPQRivNNMQMFgkXNPgiQXN1i2twdUWvwr2XMbxsAbwdL3eJjCMSgs8oWyGx7pHCX8jWHrKi8Meap3gc5TujM',
-		paymentId: 'DF794857BC4587ECEC911AF6A6AB02513FEA524EC5B98DA8702FAC92195A94B2',
+		name: 'TheBlocMoney Team',
+		address: 'abLoc9YTzHnUJENT6BHd9VWPawzG5m7TpeNSim3xNSpK5hNUTNf2BdcQMdKLFuF33UC8YH3nicWxjauaXB8sfUCQEzNzVvg1k7A',
+		paymentId: '',
 	}
 ];
 
 // bloc.money url
-config.blockMoneyUrl = 'https://bloc.money/';
+config.blockMoneyUrl = 'https://TheBlocMoney.com/';
 
 // bloc.money download url
-config.blockMoneyDownloadUrl = 'https://bloc.money/download';
+config.blockMoneyDownloadUrl = 'https://TheBlocMoney.com/download';
 
 // GUI-miner download url
-config.guiMinerDownloadUrl = 'https://github.com/furiousteam/BLOC-GUI-Miner/releases';
+config.guiMinerDownloadUrl = 'https://github.com/TheBlocMoney/BLOC-GUI-Miner/releases';
 
 // Paperwallet url
-config.paperWalletUrl = 'https://paperwallet.bloc.money';
+config.paperWalletUrl = 'https://TheBlocMoney.com';
 
 // iPhone download url
-config.iphoneWalletUrl = 'https://itunes.apple.com/us/app/bloc-wallet-by-furiousteam-ltd/id1437924269?mt=8';
+config.iphoneWalletUrl = 'https://TheBlocMoney.com';
 
 // BLOC wiki url
-config.blocWikiUrl = 'https://wiki.bloc.money/';
+config.blocWikiUrl = 'https://TheBlocMoney.com';
 
 // Browser mining url
-config.browserMiningUrl = 'https://bloc-mining.com/';
+config.browserMiningUrl = 'https://TheBlocMoney.com';
 
 // Block explorer url
 config.blockExplorerUrl = 'https://bloc-explorer.com/';
@@ -106,7 +106,7 @@ config.telegramChannelUrl = 'https://t.me/bloc_money';
 config.bitcoinTalkUrl = 'https://bitcointalk.org/index.php?topic=4108831.0';
 
 // Github page url
-config.githubPageUrl = 'https://github.com/furiousteam';
+config.githubPageUrl = 'https://github.com/TheBlocMoney';
 
 // Twitter profile url
 config.twitterProfileUrl = 'https://twitter.com/bloc_money';
