@@ -82,16 +82,16 @@ config.blockMoneyDownloadUrl = 'https://TheBlocMoney.com/download';
 config.guiMinerDownloadUrl = 'https://github.com/TheBlocMoney/BLOC-GUI-Miner/releases';
 
 // Paperwallet url
-config.paperWalletUrl = 'https://TheBlocMoney.com';
+config.paperWalletUrl = 'http://PaperWallet.theblocmoney.com/';
 
 // iPhone download url
-config.iphoneWalletUrl = 'https://TheBlocMoney.com';
+config.iphoneWalletUrl = 'http://iphone.theblocmoney.com/';
 
 // BLOC wiki url
-config.blocWikiUrl = 'https://TheBlocMoney.com';
+config.blocWikiUrl = 'http://wiki.theblocmoney.com/';
 
 // Browser mining url
-config.browserMiningUrl = 'https://TheBlocMoney.com';
+config.browserMiningUrl = 'https://theblocmoney.com/browser-mining/';
 
 // Block explorer url
 config.blockExplorerUrl = 'https://bloc-explorer.com/';
@@ -118,7 +118,7 @@ config.redditProfileUrl = 'https://www.reddit.com/r/BLOC_MONEY/';
 config.mediumProfileUrl = 'https://medium.com/@bloc.money';
 
 // Youtube channel url
-config.youtubeChannelUrl = 'https://www.youtube.com/channel/UCdvnEPWhqGtZUEx3EFBrXvA';
+config.youtubeChannelUrl = 'https://www.youtube.com/channel/UCAS8GFwjF9NtVZvkBimIolQ';
 
 // Facebook page url
 config.facebookPageUrl = 'https://www.facebook.com/Blocmoney-383098922176113';
