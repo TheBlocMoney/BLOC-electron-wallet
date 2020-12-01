@@ -76,7 +76,7 @@ config.addressBookSampleEntries = [
 config.blockMoneyUrl = 'https://TheBlocMoney.com/';
 
 // bloc.money download url
-config.blockMoneyDownloadUrl = 'https://TheBlocMoney.com/download';
+config.blockMoneyDownloadUrl = 'http://downloads.theblocmoney.com';
 
 // GUI-miner download url
 config.guiMinerDownloadUrl = 'https://github.com/TheBlocMoney/BLOC-GUI-Miner/releases';
