@@ -79,7 +79,7 @@ config.blockMoneyUrl = 'https://TheBlocMoney.com/';
 config.blockMoneyDownloadUrl = 'http://downloads.theblocmoney.com';
 
 // GUI-miner download url
-config.guiMinerDownloadUrl = 'https://github.com/TheBlocMoney/BLOC-GUI-Miner/releases';
+config.guiMinerDownloadUrl = 'http://downloads.theblocmoney.com';
 
 // Paperwallet url
 config.paperWalletUrl = 'http://PaperWallet.theblocmoney.com/';
