@@ -109,22 +109,22 @@ config.bitcoinTalkUrl = 'https://bitcointalk.org/index.php?topic=4108831.0';
 config.githubPageUrl = 'https://github.com/TheBlocMoney';
 
 // Twitter profile url
-config.twitterProfileUrl = 'https://twitter.com/bloc_money';
+config.twitterProfileUrl = 'https://theblocmoney.com/social-media-links';
 
 // Reddit forum url
 config.redditProfileUrl = 'https://www.reddit.com/r/BLOC_MONEY/';
 
 // Medium profile url
-config.mediumProfileUrl = 'https://medium.com/@bloc.money';
+config.mediumProfileUrl = 'https://theblocmoney.com/social-media-links';
 
 // Youtube channel url
 config.youtubeChannelUrl = 'https://www.youtube.com/channel/UCAS8GFwjF9NtVZvkBimIolQ';
 
 // Facebook page url
-config.facebookPageUrl = 'https://www.facebook.com/Blocmoney-383098922176113';
+config.facebookPageUrl = 'https://theblocmoney.com/social-media-links';
 
 // Instagram profile url
-config.instagramProfileUrl = 'https://www.instagram.com/bloc.money';
+config.instagramProfileUrl = 'https://theblocmoney.com/social-media-links';
 
 // Block explorer telegram bot url
 config.blockExplorerTelegramBotUrl = 'https://t.me/bloc_explorer_bot';
